@@ -3568,7 +3568,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			min-height: 100%;
+			min-height: 75%;
 			opacity: 1;
 			width: 100%;
 		}
